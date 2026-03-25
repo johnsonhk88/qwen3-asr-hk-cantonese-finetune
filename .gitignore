@@ -9,6 +9,7 @@ __pycache__/
 # Dirctory 
 Dataset-Cantonese-Training/Qwen3-ASR-0.6B/
 Dataset-Cantonese-Training/audio/
+Dataset-Cantonese-Training/train_raw.jsonl
 
 # data files
 *.parquet
