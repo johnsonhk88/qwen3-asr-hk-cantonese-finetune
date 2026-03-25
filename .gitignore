@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# Dirctory 
+Dataset-Cantonese-Training/Qwen3-ASR-0.6B/
+Dataset-Cantonese-Training/audio/
+
+# data files
+*.parquet
+
 # Distribution / packaging
 .Python
 build/

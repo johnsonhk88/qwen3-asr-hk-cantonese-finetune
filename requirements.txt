@@ -1,3 +1,15 @@
 huggingface_hub[cli]
 qwen-asr
 jupyterlab
+numpy
+soundfile
+pandas
+pyarrow
+fastparquet
+pydub
+tensorboard
+mlflow==3.10.1
+speechbrain
+evaluate
+jiwer
+tqdm
