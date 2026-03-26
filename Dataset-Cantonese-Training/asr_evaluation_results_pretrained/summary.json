@@ -1,0 +1,9 @@
+{
+  "checkpoint": "./Qwen3-ASR-0.6B",
+  "test_samples": 500,
+  "avg_cer": 0.2762,
+  "avg_wer": 1.3232,
+  "language": "Cantonese",
+  "max_new_tokens": 2048,
+  "asr_model": "Qwen3-ASR (fine-tuned or pretrained)"
+}
