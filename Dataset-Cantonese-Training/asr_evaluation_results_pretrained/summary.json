@@ -1,11 +1,12 @@
 {
   "checkpoint": "./Qwen3-ASR-0.6B",
-  "test_samples": 200,
-  "avg_cer": 0.2959,
-  "avg_wer": 1.377,
-  "avg_rtf": 0.2272,
+  "test_samples": 500,
+  "avg_cer": 0.2664,
+  "avg_wer": 1.369,
+  "avg_rtf": 0.2198,
   "language": "Cantonese",
-  "max_new_tokens": 2048,
-  "asr_model": "Qwen3-ASR (fine-tuned or pretrained)",
-  "total_audio_hours": 0.425
+  "asr_model": "Qwen3-ASR",
+  "total_audio_hours": 1.094,
+  "avg_wer_errors_(S+D+I)": 3.25,
+  "avg_cer_errors_(S+D+I)": 13.63
 }
